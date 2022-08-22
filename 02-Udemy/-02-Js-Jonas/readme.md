@@ -17,27 +17,27 @@
 ### Pig Game
 
 - [Project-code](./Projects/Pig-Game)
-- [Live Demo]()
+- [Live Demo](https://anas-shalaby.github.io/pig-game/)
 
 ### Bankist
 
 - [Project-code](./Projects/Bankist)
-- [Live Demo]()
+- [Live Demo](https://anas-shalaby.github.io/Bankist-project/)
 
 ### Bankist Site
 
 - [Project-code](./Projects/Bankist-Site)
-- [Live Demo]()
+- [Live Demo](https://anas-shalaby.github.io/Bankist-web/)
 
 ### Mapty
 
 - [Project-code](./Projects/Mapty)
-- [Live Demo]()
+- [Live Demo](https://anas-shalaby.github.io/Mapty/)
 
 ### Forkify
 
 - [Project-code](./Projects/Forkify)
-- [Live Demo]()
+- [Live Demo](https://forkify-anas.netlify.app)
 
 ---
 
