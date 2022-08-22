@@ -1,0 +1,19 @@
+Objects:
+  user 
+  library 
+  album 
+  song 
+  queue 
+  admin 
+
+
+he responsibilities [Verb phrases]
+  browse library of album 
+  browses songs in album 
+  select album 
+  select song 
+  play selected song 
+  add song to queue 
+  play song from queue 
+  cancel song in queue 
+  identify user 

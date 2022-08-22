@@ -1,0 +1,28 @@
+[first use cases] 
+
+Title: play a song 
+Primary actor: User 
+Success Scenario: 
+System identifies User. 
+User browses library of available albums.
+User selects an album and browses list of songs on the selected albums. 
+User select a song. 
+system plays the selected song.
+
+second use case 
+
+1-System identifies the users.
+2-User browses the available albums and songs.
+3-User selects a song.
+4-system begins playing selected song.
+5-The user continues browsing and selects a second song
+6-system adds that second song to a play queue
+7-system plays second song after the first song is over. 
+
+----[user stories]
+
+1- as a user, I want my song to be added to the front of the long play queue so that I don't have to wait hours to hear it. 
+
+2- as a user, I want to be identified without having to touch anything so I can use my hands to do other things.
+
+3- As a user, I want to sort and browse songs by artist, so that I can listen to every song by ABBA.
