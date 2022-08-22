@@ -56,7 +56,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # MERN Stack
 
-![100%](https://progress-bar.dev/0/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 <br />
 
 ## JavaScript - Select one of these 2 courses to complete
@@ -85,7 +85,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # Learn How to Deploy your web applications with Cloud Provider (AWS)
 
-![100%](https://progress-bar.dev/0/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 
 - [x] `in progress` `16h` - 16 - [AWS Certified Cloud Practitioner (CLF-C01)](<03-aCloudGuru/AWS%20Certified%20Cloud%20Practitioner%20(CLF-C01)/>)
 - [x] `in progress` `42h` - 17 - [AWS Certified Solutions Architect Associate (SAA-C02)](<03-aCloudGuru/AWS%20Certified%20Solutions%20Architect%20Associate%20(SAA-C02)>)
@@ -101,6 +101,6 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # Learn How to Make serverless web applications
 
-![100%](https://progress-bar.dev/0/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 
 - [x] `in progress` - 18 - [Serverless Stack (SST)](04-Serverless-Stack-Project/)
