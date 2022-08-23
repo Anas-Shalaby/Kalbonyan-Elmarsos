@@ -47,7 +47,7 @@
 ### Tasks app with firebase(S15)
 
 - [Project-code](./Projects/task-app-firbase/)
-- [Live Demo](https://react-app-fde98.web.app/)
+- [Live Demo](https://order-food-127ee.web.app/)
 
 ### Form-app(S16)
 
@@ -57,7 +57,7 @@
 ### Order-food App (S17)
 
 - [Project Code](./Projects/order-food-app/S17-project/)
-- [Final Project Live Live Demo](https://react-app-fde98.web.app/)
+- [Final Project Live Live Demo](https://order-food2.web.app/)
 
 ### Redux Counter(S18)
 
