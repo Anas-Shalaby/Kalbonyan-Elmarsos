@@ -4,13 +4,13 @@
 ### Notes App
 - [Project-code](./Projects/Notes-App)
 ### Task Manager API
-- [Project-code](./Projects/Task-Manager-API)
+- [Project-code](task-manager-api-eight.vercel.app)
 ### Weather App
 - [Project-code](./Projects/Weather-App)
-- [Live Demo]()
+- [Live Demo](https://weatherapplication2022.herokuapp.com/)
 ### Chat App
 - [Project-code](./Projects/Chat-App)
-- [Live Demo]()
+- [Live Demo](https://anas-chat-app.herokuapp.com/)
 
 ---
 ## Code
