@@ -4,15 +4,11 @@
 
 ### expenses-app (S3-S5)
 
-- [Section 3 Code](./Projects/Expenses-app/S03-project)
-- [Section 4 Code](./Projects/Expenses-app/S04-project/)
-- [Section 5 Code](./Projects/Expenses-app/S05-project/)
+- [Section Code](./Projects/Expenses-app/Expenses-app)
 
   <br/>
 
-- [Section 3 Project Live Demo]()
-- [Section 4 Project Live Demo]()
-- [Section 5 Project Live Demo]()
+- [Live Demo](https://expensess-app-react.netlify.app)
 
 ### goals app (S6-S7)
 
