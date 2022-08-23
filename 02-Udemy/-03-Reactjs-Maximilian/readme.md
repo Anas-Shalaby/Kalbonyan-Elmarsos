@@ -10,108 +10,104 @@
 
 ### goals app (S6-S7)
 
-- [Section 6 Code](./Projects/goals-app/S06-project/)
-- [Section 7 Code](./Projects/goals-app/S07-project/)
+- [Section Code](./Projects/goals-app/Goals-app)
 
-<br/>
-
-- [Section 6 Project Live Demo]()
-- [Section 7 Project Live Demo]()
+- [Live Demo](https://goals-app-react.netlify.app)
 
 ### Section 8-9 Project
 
 - [Project-code](./Projects/section-8-9-project)
-- [Live Demo]()
+- [Live Demo](https://form-react-app1.netlify.app/)
 
 ### Login-app (S10)
 
 - [Project-code](./Projects/Login-app-s10/)
-- [Live Demo]()
+- [Live Demo](https://login-form-react-app.netlify.app)
 
 ### Order-food App (S11)
 
 - [Project-code](./Projects/order-food-app/S11-project/)
-- [Live Demo]()
+- [Live Demo](https://food-order-react-app1.netlify.app)
 
 ### Section 12 Project
 
 - [Project-code](./Projects/S12-project)
-- [Live Demo]()
+- [Live Demo](https://sec-12.netlify.app)
 
 ### Section 13 Project
 
 - [Project-code](./Projects/S13-project)
-- [Live Demo]()
+- [Live Demo](https://sec-react-13.netlify.app)
 
 ### movies app(S14)
 
 - [Project-code](./Projects/movies-app)
-- [Live Demo]()
+- [Live Demo](https://react-app-fde98.web.app/)
 
 ### Tasks app with firebase(S15)
 
 - [Project-code](./Projects/task-app-firbase/)
-- [Live Demo]()
+- [Live Demo](https://react-app-fde98.web.app/)
 
 ### Form-app(S16)
 
 - [Project-code](./Projects/form-app)
-- [Live Demo]()
+- [Live Demo](https://sec-react-16.netlify.app)
 
 ### Order-food App (S17)
 
 - [Project Code](./Projects/order-food-app/S17-project/)
-- [Final Project Live Live Demo]()
+- [Final Project Live Live Demo](https://react-app-fde98.web.app/)
 
 ### Redux Counter(S18)
 
 - [Project-code](./Projects/redux-counter)
-- [Live Demo]()
+- [Live Demo](https://sec-react-18.netlify.app)
 
 ### Redux Cart(S19)
 
 - [Project-code](./Projects/redux-cart)
-- [Live Demo]()
+- [Live Demo](https://redux-app-ec4cb.web.app)
 
 ### Quotes app(S20)
 
 - [Project-code](./Projects/quotes-app)
-- [Live Demo]()
+- [Live Demo](https://qoute-app-4e249.web.app/quotes)
 
 ### Authentication-page(S22)
 
 - [Project-code](./Projects/Authentication-page)
-- [Live Demo]()
+- [Live Demo](https://sec-react-22.netlify.app)
 
 ### Meetsup app(S23)
 
 - [Project-code](./Projects/meetsup-app)
-- [Live Demo]()
+- [Live Demo](https://meetups-brown-eight.vercel.app/)
 
 ### Animation-app (S24)
 
 - [Project-code](./Projects/animation-app)
-- [Live Demo]()
+- [Live Demo](https://animate-app.vercel.app/)
 
 ### Products-app(S25)
 
 - [Project-code](./Projects/Products-app)
-- [Live Demo]()
+- [Live Demo](https://favourite-product.netlify.app)
 
 ### todo-app-TS(S27)
 
 - [Project-code](./Projects/todo-app-TS)
-- [Live Demo]()
+- [Live Demo](https://typescript-react-app.netlify.app/)
 
 ### ingredients-app(S28)
 
 - [Project-code](./Projects/ingredients-app/)
-- [Live Demo]()
+- [Live Demo](https://ingrediants.netlify.app/)
 
 ### Section 29 Project
 
 - [Project-code](./Projects/Section-29/)
-- [Live Demo]()
+- [Live Demo](https://last-app-5697e.web.app/)
 
 ---
 
