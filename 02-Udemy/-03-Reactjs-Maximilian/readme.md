@@ -6,8 +6,6 @@
 
 - [Section Code](./Projects/Expenses-app/Expenses-app)
 
-  <br/>
-
 - [Live Demo](https://expensess-app-react.netlify.app)
 
 ### goals app (S6-S7)
