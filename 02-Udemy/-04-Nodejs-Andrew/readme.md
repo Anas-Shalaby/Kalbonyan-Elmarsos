@@ -2,7 +2,7 @@
 ## Projects
 
 ### Notes App
-- [Project-code](https://github.com/Anas-Shalaby/Kalbonyan-Elmarsos/tree/main/02-Udemy/-04-Nodejs-Andrew/Code/notes-app)
+- [Project-code](./Projects/Notes-App)
 ### Task Manager API
 - [Project-code](task-manager-api-eight.vercel.app)
 ### Weather App
