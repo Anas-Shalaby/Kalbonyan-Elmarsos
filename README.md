@@ -61,7 +61,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 ## JavaScript - Select one of these 2 courses to complete
 
-- [x] `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
+- [ ] `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
 - [x] `in progress` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
 
 ## ReactJs - Select one of these 2 courses to complete
