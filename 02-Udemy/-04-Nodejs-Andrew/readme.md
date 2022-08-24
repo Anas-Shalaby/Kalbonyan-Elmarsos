@@ -4,7 +4,7 @@
 ### Notes App
 - [Project-code](./Projects/Notes-App)
 ### Task Manager API
-- [Project-code](task-manager-api-eight.vercel.app)
+- [Project-code](./Projects/Task-Manager-API)
 ### Weather App
 - [Project-code](./Projects/Weather-App)
 - [Live Demo](https://weatherapplication2022.herokuapp.com/)
