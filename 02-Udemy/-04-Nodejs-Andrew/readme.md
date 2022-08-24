@@ -19,6 +19,6 @@
 ---
 [Course-Link](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+![image](https://user-images.githubusercontent.com/103274587/186432103-b9448702-046a-4ddb-8d15-3296e39b37b8.png)
+![Certificate](https://via.placeholder.com/468x300?text=Certificate ![image](https://user-images.githubusercontent.com/103274587/186432103-b9448702-046a-4ddb-8d15-3296e39b37b8.png)
 )
 
