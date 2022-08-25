@@ -13,14 +13,28 @@ weatherForm.addEventListener("submit", (e) => {
   messageOne.textContent = "Loading...";
   messageTwo.textContent = "";
 
-  fetch("/weather?address=" + location).then((response) => {
-    response.json().then((data) => {
-      if (data.error) {
-        messageOne.textContent = data.error;
-      } else {
-        messageOne.textContent = data.location;
-        messageTwo.textContent = data.forecast;
-      }
+  fetch(`/weather?address=${location}`)
+    .then(async (res) => {
+      return res.json();
+    })
+    .then((data) => {
+      messageOne.textContent = "";
+      const {
+        observation_time,
+        temperature,
+        weather_descriptions,
+        wind_speed,
+        pressure,
+      } = data.current;
+
+      messageOne.textContent = weather_descriptions;
+      messageTwo.textContent = temperature;
+    })
+
+    .catch((err) => {
+      console.log(err);
+      messageOne.classList.add("error");
+      messageOne.textContent =
+        "Error happened, check your inputs and try again";
     });
-  });
 });
