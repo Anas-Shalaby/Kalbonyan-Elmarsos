@@ -7,7 +7,7 @@
 - [Project-code](./Projects/Task-Manager-API)
 ### Weather App
 - [Project-code](./Projects/Weather-App)
-- [Live Demo](https://weatherapplication2022.herokuapp.com/)
+- [Live Demo](https://weather-app-anas-node.herokuapp.com/)
 ### Chat App
 - [Project-code](./Projects/Chat-App)
 - [Live Demo](https://anas-chat-app.herokuapp.com/)
