@@ -40,6 +40,15 @@ import portfolio10 from "../assets/portfolio10.png";
 import portfolio11 from "../assets/portfolio11.png";
 import portfolio12 from "../assets/portfolio12.png";
 import portfolio14 from "../assets/portfolio14.jpg";
+import portfolio15 from "../assets/Expenses.jpg";
+import portfolio16 from "../assets/goal_app.jpg";
+import portfolio17 from "../assets/Username_age_form.jpg";
+import portfolio18 from "../assets/Food-order-app-1.jpg";
+import portfolio19 from "../assets/Section-12.jpg";
+import portfolio20 from "../assets/Section-13.jpg";
+import portfolio21 from "../assets/Food-order-app-2.jpg";
+import portfolio22 from "../assets/Quetos-app.jpg";
+import portfolio23 from "../assets/Meetup-app.jpg";
 
 import about5 from "../assets/about5.jpg";
 import about6 from "../assets/about6.jpg";
@@ -101,4 +110,13 @@ export default {
   portfolio11,
   portfolio12,
   portfolio14,
+  portfolio15,
+  portfolio16,
+  portfolio17,
+  portfolio18,
+  portfolio19,
+  portfolio20,
+  portfolio21,
+  portfolio22,
+  portfolio23,
 };

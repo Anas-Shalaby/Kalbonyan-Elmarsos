@@ -105,6 +105,87 @@ const work = [
     title: "A crazy site with beautiful animation",
     catigory: "HTML and CSS",
   },
+  {
+    imgUrl: images.portfolio15,
+    projectLink: "https://expensess-app-react.netlify.app/",
+    codeLink:
+      "https://github.com/Anas-Shalaby/Kalbonyan-Elmarsos/tree/main/02-Udemy/-03-Reactjs-Maximilian/Projects/Expenses-app/Expenses-app",
+    name: "Expenses App",
+    title: "App with react js to practise",
+    catigory: "React Js",
+  },
+  {
+    imgUrl: images.portfolio16,
+    projectLink: "https://goals-app-react.netlify.app/",
+    codeLink:
+      "https://github.com/Anas-Shalaby/Kalbonyan-Elmarsos/tree/main/02-Udemy/-03-Reactjs-Maximilian/Projects/goals-app/Goals-app",
+    name: "Goals app",
+    title: "App with react js to practise",
+    catigory: "React Js",
+  },
+  {
+    imgUrl: images.portfolio17,
+    projectLink: "https://form-react-app1.netlify.app/",
+    codeLink:
+      "https://github.com/Anas-Shalaby/Kalbonyan-Elmarsos/tree/main/02-Udemy/-03-Reactjs-Maximilian/Projects/section-8-9-project",
+    name: "form-react",
+    title: "App with react js to practise",
+    catigory: "React Js",
+  },
+  {
+    imgUrl: images.portfolio18,
+    projectLink: "https://food-order-react-app1.netlify.app/",
+    codeLink:
+      "https://github.com/Anas-Shalaby/Kalbonyan-Elmarsos/tree/main/02-Udemy/-03-Reactjs-Maximilian/Projects/order-food-app/S11-project",
+    name: "food-order-app",
+    title: "App with react js to practise",
+    catigory: "React Js",
+  },
+  {
+    imgUrl: images.portfolio19,
+    projectLink: "https://sec-12.netlify.app/",
+    codeLink:
+      "https://github.com/Anas-Shalaby/Kalbonyan-Elmarsos/tree/main/02-Udemy/-03-Reactjs-Maximilian/Projects/S12-project",
+    name: "Form-app",
+    title: "App with react js to practise",
+    catigory: "React Js",
+  },
+  {
+    imgUrl: images.portfolio20,
+    projectLink: "https://sec-react-13.netlify.app/",
+    codeLink:
+      "https://github.com/Anas-Shalaby/Kalbonyan-Elmarsos/tree/main/02-Udemy/-03-Reactjs-Maximilian/Projects/S13-project",
+    name: "Section 13",
+    title: "App with react js to practise",
+    catigory: "React Js",
+  },
+  {
+    imgUrl: images.portfolio21,
+    projectLink: "https://order-food2.web.app/",
+    codeLink:
+      "https://github.com/Anas-Shalaby/Kalbonyan-Elmarsos/tree/main/02-Udemy/-03-Reactjs-Maximilian/Projects/order-food-app/S17-project",
+    name: "Food-order-app-2",
+    title: "App with react js to practise",
+    catigory: "React Js",
+  },
+  {
+    imgUrl: images.portfolio22,
+    projectLink: "https://qoute-app-4e249.web.app/quotes",
+    codeLink:
+      "https://github.com/Anas-Shalaby/Kalbonyan-Elmarsos/tree/main/02-Udemy/-03-Reactjs-Maximilian/Projects/quotes-app",
+    name: "Quotes app",
+    title: "App with react js to practise",
+    catigory: "React Js",
+  },
+  {
+    imgUrl: images.portfolio23,
+    projectLink: "https://last-app-5697e.web.app/",
+    codeLink:
+      "https://github.com/Anas-Shalaby/Kalbonyan-Elmarsos/blob/main/02-Udemy/-03-Reactjs-Maximilian/Projects/Section-29",
+    name: "MeetsUp-app",
+    title: "App with react js to practise",
+    catigory: "React Js",
+  },
 ];
 
 export default work;
