@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
+
+:root {
+  --font-base: "DM Sans", sans-serif;
+
+  --primary-color: #edf2f8;
+  --secondary-color: #313bac;
+  --black-color: #030303;
+  --pink-color: #fef4f5;
+  --lightGray-color: #e4e4e4;
+  --gray-color: #6b7688;
+  --brown-color: #46364a;
+  --white-color: #ffffff;
+  --card-item: #fff;
+  --btn: #edf2f8;
+  --links: #fff;
+  --menu-back2: #fff;
+  --header-back: url("./assets/bgIMG.png");
+  --box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  --navbar-back: rgba(255, 255, 255, 0.25);
+  --menu-back: url("./assets/bgWhite.png");
+}
+.black-theme {
+  --menu-back2: #0f1624;
+  --font-base: "DM Sans", sans-serif;
+  --pink-color: #6b7688;
+  --menu-back: #0f1624;
+  --primary-color: #0f1624;
+  --secondary-color: #313bac;
+  --black-color: #6b7688;
+  --card-item: #0f1624;
+  --lightGray-color: #e4e4e4;
+  --gray-color: #fff;
+  --brown-color: #46364a;
+  --white-color: #ffffff;
+  --btn: #6b7688;
+  --navbar-back: #0f1624;
+  --header-back: #0f1624;
+  --box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}

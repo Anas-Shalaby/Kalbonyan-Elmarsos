@@ -1,0 +1,127 @@
+.app__footer {
+  flex: 1;
+  width: 100%;
+  flex-direction: column;
+}
+.app__footer-cards {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+  margin: 4rem 2rem 2rem;
+  .app__footer-card {
+    min-width: 290px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: var(--pink-color);
+    margin: 1rem 0;
+    padding: 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+
+    transition: all 0.3s ease-in-out;
+
+    img {
+      width: 40px;
+      height: 40px;
+      margin: 0 0.7rem;
+    }
+    a {
+      text-decoration: none;
+      font-weight: 500;
+    }
+    &:hover {
+      box-shadow: 0 0 25px #000;
+    }
+
+    @media screen and(max-width:450px) {
+      width: 100%;
+    }
+  }
+  @media screen and(max-width:768px) {
+    width: 100%;
+  }
+}
+.app__footer-cards .app__footer-card:last-child {
+  background-color: var(--btn);
+}
+hr {
+  background: var(--gray-color);
+  width: 100%;
+  height: 2px;
+}
+
+.app__social-links {
+  margin-top: 2rem;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+  div {
+    display: flex;
+    gap: 5rem;
+    @media screen and(max-width:400px) {
+      & {
+        width: 100%;
+        justify-content: space-around;
+      }
+    }
+  }
+  div > div {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: var(--white-color);
+    margin: 0.25rem 0;
+    border: 1px solid var(--lightGray-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: var(--box-shadow);
+    animation: up-down 2s infinite;
+    @media screen and(max-width:400px) {
+      & {
+        width: 40px;
+        height: 40px;
+      }
+    }
+    svg {
+      width: 40px;
+      height: 40px;
+      color: var(--black-color);
+      @media screen and(max-width:400px) {
+        & {
+          width: 20px;
+          height: 20px;
+        }
+      }
+    }
+  }
+}
+
+@media screen and(max-width:900px) {
+  .footer-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    li a {
+      font-size: 0.7rem;
+    }
+  }
+}
+
+@keyframes up-down {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}

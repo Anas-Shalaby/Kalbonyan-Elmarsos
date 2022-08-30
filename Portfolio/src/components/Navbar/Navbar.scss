@@ -1,0 +1,191 @@
+.app__navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.1rem 2rem;
+  background: var(--navbar-back);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  box-shadow: var(--box-shadow);
+  position: fixed;
+  z-index: 2;
+}
+
+.app__navbar-logo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  img {
+    width: 90px;
+    height: 90px;
+    @media screen and (min-width: 2000px) {
+      width: 500px;
+      height: 200px;
+    }
+  }
+}
+.mode-span {
+  position: relative;
+  background: var(--card-item);
+  box-shadow: var(--box-shadow);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  justify-content: a;
+  width: 100px;
+  border-radius: 12px;
+  height: 24px;
+  cursor: pointer;
+  .dark-mood-icon {
+    position: absolute;
+    left: -10px;
+    width: 34px;
+    height: 34px;
+    color: #000;
+  }
+  .light-mood-icon {
+    position: absolute;
+    color: white;
+    right: -10px;
+    width: 34px;
+    height: 34px;
+  }
+}
+.app__navbar-links {
+  flex: 1;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  li {
+    margin: 0 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    flex-direction: column;
+    div {
+      width: 5px;
+      height: 5px;
+      background: transparent;
+      border-radius: 50%;
+      margin-bottom: 5px;
+    }
+    a {
+      color: var(--gray-color);
+      text-decoration: none;
+      flex-direction: column;
+      text-transform: uppercase;
+      font-weight: 500;
+      transition: all 0.3s ease-in-out;
+      position: relative;
+      &::before {
+        content: "";
+        position: absolute;
+        width: 0;
+        height: 3px;
+        top: 100%;
+        transition: all 0.2s ease-in-out;
+      }
+
+      &:hover::before {
+        background: linear-gradient(to right, #2193b0, #6dd5ed);
+        width: 100%;
+      }
+    }
+    &:hover {
+      div {
+        background-color: var(--gray-color);
+      }
+    }
+  }
+  @media screen and(max-width:900px) {
+    display: none;
+  }
+}
+.app__navbar-menu {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--secondary-color);
+  svg {
+    width: 70%;
+    height: 70%;
+    color: var(--white-color);
+  }
+  div {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 5;
+    padding: 1rem;
+    width: 80%;
+    height: 100vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    background: var(--menu-back);
+    background-color: var(--menu-back2);
+    background-size: cover;
+    background-repeat: repeat;
+    box-shadow: 0 0 20px rgba(168, 168, 168, 0.15);
+    svg {
+      width: 35px;
+      height: 35px;
+      color: var(--secondary-color);
+      margin: 0.5rem 1rem;
+    }
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      display: flex;
+      justify-content: flex-start;
+      align-items: flex-start;
+      flex-direction: column;
+      li {
+        margin: 1rem;
+        a {
+          text-decoration: none;
+          color: var(--gray-color);
+          font-size: 1rem;
+          text-transform: uppercase;
+          font-weight: 500;
+          transition: all 0.5s ease-in-out;
+          position: relative;
+          &::before {
+            content: "";
+            position: absolute;
+            width: 0;
+            height: 3px;
+            top: 100%;
+            transition: all 0.2s ease-in-out;
+          }
+
+          &:hover::before {
+            background: linear-gradient(to right, #2193b0, #6dd5ed);
+            width: 100%;
+          }
+        }
+        &:hover {
+          div {
+            background-color: var(--gray-color);
+          }
+        }
+      }
+    }
+    @media screen and(min-width:900px) {
+      display: none;
+    }
+  }
+  @media screen and(min-width:900px) {
+    display: none;
+  }
+}

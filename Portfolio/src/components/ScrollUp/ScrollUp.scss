@@ -1,0 +1,70 @@
+.scoll-up-btn {
+  position: fixed;
+  right: 100px;
+  bottom: 100px;
+  width: 20px;
+  height: 20px;
+  z-index: 8;
+  cursor: pointer;
+
+  color: var(--white-color);
+}
+.app__up-btn {
+  div {
+    position: fixed;
+    right: 88px;
+    bottom: 86px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    background: var(--white-color);
+    margin: 0.25rem 0;
+    background: #004e92;
+    border: 1px solid var(--lightGray-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    transition: all 0.3s ease-in-out;
+
+    z-index: 9;
+    svg {
+      width: 15px;
+      height: 15px;
+      color: var(--white-color);
+    }
+
+    &:hover {
+      background-color: var(--gray-color);
+      border-color: var(--white-color);
+
+      svg {
+        color: var(--primary-color);
+      }
+    }
+
+    @media screen and (min-width: 2000px) {
+      width: 70px;
+      height: 70px;
+
+      margin: 0.5rem 0;
+
+      svg {
+        width: 30px;
+        height: 30px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .app__up-btn {
+    div {
+      right: 8px;
+    }
+    svg {
+      right: 20px;
+    }
+  }
+}
